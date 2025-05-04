@@ -9,7 +9,7 @@ A responsive Laravel-powered entertainment platform that allows users to explore
 
 ## Preview
 
-![Screenshot of Entertainment Site]([screenshot.jpg](http://localhost/assets/img/project-entertainment.jpg)) 
+![Screenshot of Entertainment Site](https://leannegrunewald.co.za/assets/img/project-entertainment.jpg)
 
 ---
 
@@ -72,6 +72,4 @@ Built by [Leanne Grunewald](https://leannegrunewald.co.za), a full-stack web dev
 ## Feedback & Contact
 
 Feel free to [reach out](https://leannegrunewald.co.za/#contact), or message via the contact form on my portfolio.
-
-## About the Developer
 
