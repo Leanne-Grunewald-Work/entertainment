@@ -65,6 +65,10 @@ TMDB_API_KEY=your_tmdb_key
 - Media detail pages with cast/trailers
 - Save user preferences (dark/light mode)
 
+## Design Credit
+
+This site is based on the [Entertainment Web App Challenge](https://www.frontendmentor.io/challenges/entertainment-web-app-J-UhgAW1X) by [Frontend Mentor](https://www.frontendmentor.io/)
+
 ## About the Developer
 
 Built by [Leanne Grunewald](https://leannegrunewald.co.za), a full-stack web developer with a love for creative, clean code and modern web experiences.
